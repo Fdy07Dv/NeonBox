@@ -21,7 +21,8 @@ Lecteur multimédia néon pour Windows — Musique, vidéos, animations et bien 
 
 ## 📥 Téléchargement
 
-*(lien à venir)*
+- **Version Portable** — Version démo, lance directement sans installation. Chargez vos musiques via le bouton FICHIERS.
+- **Version Install** — Version complète avec catégories musicales et scan automatique.
 
 ## 💜 Don
 
