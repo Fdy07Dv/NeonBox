@@ -2,6 +2,12 @@
 
 Lecteur multimédia néon pour Windows — Musique, vidéos, animations et bien plus !
 
+## 📸 Screenshots
+
+![Interface NeonBox](1.Interface%20NeonBox.png)
+
+![Animations NeonBox](2.Animations%20NeonBox.png)
+
 ## ✨ Fonctionnalités
 
 - 🎵 Lecture audio (MP3, FLAC, WAV, OGG, AAC...)
@@ -19,8 +25,4 @@ Lecteur multimédia néon pour Windows — Musique, vidéos, animations et bien 
 
 ## 💜 Don
 
-Si NeonBox te plaît, un petit don est toujours apprécié !
-
-## 📸 Screenshots
-
-*(à ajouter)*
+Si NeonBox te plaît, un petit don est toujours apprécié ! 😊
